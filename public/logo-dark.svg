@@ -1,0 +1,33 @@
+<svg width="200" height="44" viewBox="0 0 200 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="D_b1" x1="0" y1="0" x2="28" y2="40" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7AABFF"/><stop offset="1" stop-color="#4F7CF5"/>
+    </linearGradient>
+    <linearGradient id="D_b2" x1="2" y1="16" x2="16" y2="42" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3460D8"/><stop offset="1" stop-color="#1E3EB5" stop-opacity="0.8"/>
+    </linearGradient>
+    <linearGradient id="D_t1" x1="10" y1="12" x2="44" y2="38" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#56D4BA"/><stop offset="1" stop-color="#3FA38C"/>
+    </linearGradient>
+    <linearGradient id="D_t2" x1="24" y1="4" x2="46" y2="36" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3AAA96"/><stop offset="1" stop-color="#1E7062" stop-opacity="0.85"/>
+    </linearGradient>
+    <linearGradient id="D_ov" x1="12" y1="8" x2="30" y2="36" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3A9ACC" stop-opacity="0.85"/><stop offset="1" stop-color="#2A8C84" stop-opacity="0.92"/>
+    </linearGradient>
+    <linearGradient id="D_ck" x1="12" y1="36" x2="42" y2="8" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/><stop offset="0.5" stop-color="#CEFFF4"/><stop offset="1" stop-color="#8AFFE8"/>
+    </linearGradient>
+  </defs>
+  <path d="M2 4C2 2 4 1 7 2L25 3C29 3 31 6 29 10L22 23C21 26 18 27 15 26L4 19C1 18 0 15 2 11Z" fill="url(#D_b1)"/>
+  <path d="M4 19C1 18 0 15 2 11L3 20C3 25 6 29 10 31L14 32C10 29 6 25 4 19Z" fill="url(#D_b2)"/>
+  <path d="M44 40C44 42 42 43 39 42L21 41C17 41 15 38 17 34L24 21C25 18 28 17 31 18L43 25C46 26 47 29 45 33Z" fill="url(#D_t1)"/>
+  <path d="M43 25C46 26 47 29 45 33L44 24C43 19 40 14 35 13L30 12C34 15 39 19 43 25Z" fill="url(#D_t2)"/>
+  <path d="M17 34C15 38 17 41 21 41L24 41C21 38 20 33 22 30L24 21C22 25 19 29 17 34Z" fill="url(#D_ov)" opacity="0.75"/>
+  <path d="M29 10C31 6 29 3 25 3L22 3C25 6 26 11 25 14L22 23C23 19 26 15 29 10Z" fill="url(#D_ov)" opacity="0.65"/>
+  <path d="M12 30L20 40L43 10" stroke="rgba(255,255,255,0.2)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M12 30L20 40L43 10" stroke="rgba(255,255,255,0.45)" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M13 29L21 39L43 9" stroke="url(#D_ck)" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <text x="54" y="30" font-family="DM Sans,system-ui,sans-serif" font-size="22" font-weight="700" letter-spacing="-0.8" fill="#7AABFF">Logi</text>
+  <text x="96" y="30" font-family="DM Sans,system-ui,sans-serif" font-size="22" font-weight="800" letter-spacing="-0.8" fill="#4BBDA4">Matcher</text>
+</svg>

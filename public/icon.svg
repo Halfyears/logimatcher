@@ -1,0 +1,15 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="48" height="48" rx="11" fill="#F4F7FB"/>
+  <defs>
+    <linearGradient id="I_b" x1="3" y1="3" x2="28" y2="28" gradientUnits="userSpaceOnUse"><stop stop-color="#5B86F5"/><stop offset="1" stop-color="#3563E9"/></linearGradient>
+    <linearGradient id="I_t" x1="13" y1="16" x2="42" y2="34" gradientUnits="userSpaceOnUse"><stop stop-color="#4BBDA4"/><stop offset="1" stop-color="#3FA38C"/></linearGradient>
+    <linearGradient id="I_ov" x1="14" y1="10" x2="30" y2="36" gradientUnits="userSpaceOnUse"><stop stop-color="#3298C8" stop-opacity="0.88"/><stop offset="1" stop-color="#2A8880" stop-opacity="0.94"/></linearGradient>
+    <linearGradient id="I_ck" x1="14" y1="36" x2="40" y2="10" gradientUnits="userSpaceOnUse"><stop stop-color="#FFFFFF"/><stop offset="0.4" stop-color="#CCFFF4"/><stop offset="1" stop-color="#88FFE8"/></linearGradient>
+  </defs>
+  <path d="M3 8Q3 3 8 3L26 3Q31 3 32 7L33 37Q34 43 29 44L10 45Q5 45 4 40Z" fill="url(#I_b)"/>
+  <path d="M13 10Q13 5 18 5L35 4Q40 4 41 9L42 39Q43 44 38 45L19 46Q14 46 13 41Z" fill="url(#I_t)"/>
+  <path d="M13 10Q13 5 18 5L26 4Q31 3 32 7L33 37Q34 43 29 44L19 46Q14 46 13 41Z" fill="url(#I_ov)"/>
+  <path d="M16 32L23 40L41 14" stroke="rgba(255,255,255,0.25)" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M16 32L23 40L41 14" stroke="rgba(255,255,255,0.6)" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M17 31L24 39L41 13" stroke="url(#I_ck)" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>

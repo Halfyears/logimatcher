@@ -1,0 +1,41 @@
+<svg width="200" height="44" viewBox="0 0 200 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="L_b1" x1="0" y1="0" x2="28" y2="40" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5B86F5"/><stop offset="1" stop-color="#3563E9"/>
+    </linearGradient>
+    <linearGradient id="L_b2" x1="2" y1="16" x2="16" y2="42" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2A4DD0"/><stop offset="1" stop-color="#1A35A8" stop-opacity="0.85"/>
+    </linearGradient>
+    <linearGradient id="L_t1" x1="10" y1="12" x2="44" y2="38" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4BBDA4"/><stop offset="1" stop-color="#3FA38C"/>
+    </linearGradient>
+    <linearGradient id="L_t2" x1="24" y1="4" x2="46" y2="36" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3A9688"/><stop offset="1" stop-color="#256B5A" stop-opacity="0.85"/>
+    </linearGradient>
+    <linearGradient id="L_ov" x1="12" y1="8" x2="30" y2="36" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3A8EC0" stop-opacity="0.9"/><stop offset="1" stop-color="#2A8278" stop-opacity="0.95"/>
+    </linearGradient>
+    <linearGradient id="L_ck" x1="12" y1="36" x2="42" y2="8" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/><stop offset="0.5" stop-color="#E0FFF8"/><stop offset="1" stop-color="#AAFFF0"/>
+    </linearGradient>
+    <linearGradient id="L_logi" x1="54" y1="0" x2="90" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3563E9"/><stop offset="1" stop-color="#3563E9"/>
+    </linearGradient>
+  </defs>
+  <!-- Blue wing upper-left -->
+  <path d="M2 4C2 2 4 1 7 2L25 3C29 3 31 6 29 10L22 23C21 26 18 27 15 26L4 19C1 18 0 15 2 11Z" fill="url(#L_b1)"/>
+  <path d="M4 19C1 18 0 15 2 11L3 20C3 25 6 29 10 31L14 32C10 29 6 25 4 19Z" fill="url(#L_b2)"/>
+  <!-- Teal wing lower-right -->
+  <path d="M44 40C44 42 42 43 39 42L21 41C17 41 15 38 17 34L24 21C25 18 28 17 31 18L43 25C46 26 47 29 45 33Z" fill="url(#L_t1)"/>
+  <path d="M43 25C46 26 47 29 45 33L44 24C43 19 40 14 35 13L30 12C34 15 39 19 43 25Z" fill="url(#L_t2)"/>
+  <!-- Overlap merge zone -->
+  <path d="M17 34C15 38 17 41 21 41L24 41C21 38 20 33 22 30L24 21C22 25 19 29 17 34Z" fill="url(#L_ov)" opacity="0.75"/>
+  <path d="M29 10C31 6 29 3 25 3L22 3C25 6 26 11 25 14L22 23C23 19 26 15 29 10Z" fill="url(#L_ov)" opacity="0.65"/>
+  <!-- Checkmark: starts in overlap, long arm exits teal wing -->
+  <path d="M12 30L20 40L43 10" stroke="rgba(255,255,255,0.22)" stroke-width="6.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M12 30L20 40L43 10" stroke="rgba(255,255,255,0.55)" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M13 29L21 39L43 9" stroke="url(#L_ck)" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- Wordmark: Logi blue, Matcher teal, no space, DM Sans -->
+  <text x="54" y="30" font-family="DM Sans,system-ui,sans-serif" font-size="22" font-weight="700" letter-spacing="-0.8" fill="#3563E9">Logi</text>
+  <text x="96" y="30" font-family="DM Sans,system-ui,sans-serif" font-size="22" font-weight="800" letter-spacing="-0.8" fill="#3FA38C">Matcher</text>
+</svg>
